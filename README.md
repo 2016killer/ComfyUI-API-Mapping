@@ -9,3 +9,6 @@
 ![image](https://github.com/2016killer/ComfyUI-API-Mapping/assets/154417659/4b5060ac-2011-47b1-9206-c1712a9f9041)
 ![image](https://github.com/2016killer/ComfyUI-API-Mapping/assets/154417659/4e2bc4af-6a98-4c71-8eec-857a13e2640a)
 
+在保存的json中，引用"remapping_data",索引的最后一位是节点类型，用于验证，得去除
+![image](https://github.com/2016killer/ComfyUI-API-Mapping/assets/154417659/415b2f70-32b9-444c-bdf3-1a483dd6cf65)
+
