@@ -65,7 +65,7 @@ function SearchDict(dict,path,value,offset) {//offset:偏移+初始调用信息
 }
 
 const ext = {
-	name: "DaMing",
+	name: "APIMapping-DaMing",
 	async SaveEF() {
 		const p = await app.graphToPrompt();
 		let workflow = p.workflow;
